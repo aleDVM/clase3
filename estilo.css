@@ -1,0 +1,31 @@
+.box {
+  height: 100px;
+  margin: 5px;
+  background-color: gray;
+  width: 23%;
+  float: left;
+  box-sizing: border-box;
+}
+
+li.nav {
+  float: left;
+  padding: 40px;
+  list-style-type: none;
+}
+
+.fi {
+  margin: 5px;
+}
+
+ul{
+  position: fixed;
+  top:0px;
+}
+
+img{
+  max-width:100%;
+  }
+
+body{
+  margin-top: 100px;
+}
