@@ -1,0 +1,40 @@
+div.band {
+  width: 18%;
+  height: auto;
+  padding: 15px;
+
+}
+
+div.rojo {
+  background-color: red;
+  width: 500px;
+  height: 60px;
+}
+
+div.amarillo {
+  background-color: yellow;
+  width: 500px;
+  height: 120px;
+}
+
+
+
+.flag {
+  width: 400px;
+  height: 300px;
+}
+
+.flag .red {
+  background-color: red;
+  margin-right: 25px;
+  margin-bottom: 25px;
+  height: 100px;
+  width: 100px;
+  float: left;
+}
+
+.flag .big {
+  width: 275px;
+  float: right;
+  margin-right: 0;
+}
